@@ -1,0 +1,353 @@
+
+/*
+Author: XpeedStudio;
+Author URI: http://themeforest.net/user/XpeedStudio/portfolio;
+*/
+
+@media (min-width:768px) and (max-width:991px) {
+.portfolio_images_overlay {
+    padding: 0px;
+}
+body{
+    font-size:95%;
+}
+h1{font-size:90%;}
+
+
+.main_menu_bg a.navbar-brand.our_logo{
+	top: -30px;
+	width: 15%;
+}
+
+.main_menu_bg h1{
+font-size: 25px;
+
+}
+
+.main_slider .main_slider_content p{
+  position: relative;
+  left: 50%;
+  top: 200px;
+  transform: translate(-50%, -50%);
+}
+
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 15%;
+}
+
+.features .btn-primary{
+    width:100px;
+    display:inline-block;
+    margin: 20px 2px;
+    text-align: center;
+}
+
+.drinks .btn-primary{
+    width:100px;
+    display:inline-block;
+    margin: 20px 2px;
+}
+
+.drinks .single_features_text p{
+  position: relative;
+  left: 50%;
+  top: 80px;
+  transform: translate(-50%, -50%);
+}
+	
+}
+
+@media (max-width:767px){
+
+.features .btn-primary{
+    width:100px;
+    display:inline-block;
+    margin: 20px 2px;
+    text-align: center;
+}
+
+.drinks .btn-primary{
+    width:100px;
+    display:inline-block;
+    margin: 20px 2px;
+}
+.single_features_text p{
+  position: relative;
+  left: 50%;
+  top: 220px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+.single_features_text h5{
+   position: relative;
+  left: 50%;
+  top: 50px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+.single_features_text h4{
+   position: relative;
+  left: 50%;
+  top: 50px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+
+.drinks .single_features_text p{
+  position: relative;
+  left: 50%;
+  top: 100px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+
+.drinks .single_features_text h5{
+   position: relative;
+  left: 50%;
+  top: 50px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+
+.navbar-default li:last-child a {
+  border-radius: 0px 0px 25px 25px;
+}
+
+.navbar-default li:first-child a {
+  border-radius: 25px 25px 0px 0px;
+}
+
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -20px;
+    width: 25%;
+}
+.main_menu_bg h1{
+font-size: 30px;
+
+}
+.single_monail_apps_text {
+    margin-top: 40px;
+}
+.main_mobail_apps_content img{
+    text-align: right;
+}
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 25%;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #E7A331;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+/*.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+    border: 0px;
+    background: rgba(0, 0, 0, .45);
+    margin-top: 14px;
+}*/
+
+
+}
+
+
+
+
+/*@media (min-width:481px) and (max-width:768px){
+
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -25px;
+    width: 15%;
+}
+.main_menu_bg h1{
+font-size: 23px;
+
+}	
+
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -26px;
+    width: 15%;
+}
+
+
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #E7A331;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+
+
+
+}*/
+
+
+@media screen (min-width:320px) and (max-width:480px){
+
+.header_top_menu .call_us_text{
+	display:none !important;
+}
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -78px;
+    width: 30%;
+}
+
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 20%;
+}
+
+
+}
+
+/*log in page */
+
+@media screen and (max-width: 415px) {
+
+.header_top_menu{
+    display: none;
+}
+
+.abouts_content img{
+    width: 50%
+}
+.slider {
+    background-size:100% 60%;
+}
+
+.main_slider .main_slider_content p{
+  position: relative;
+  left: 50%;
+  top: 250px;
+  transform: translate(-50%, -50%);
+}
+
+.features .btn-primary{
+    width:100px;
+    display:inline;
+    margin: 20px 2px;
+    text-align: center;
+}
+.single_features_text h5{
+   position: relative;
+  left: 50%;
+  top: 100px;
+  transform: translate(-50%, -50%);
+  width:175%;
+}
+.single_features_text p{
+   position: relative;
+  left: 50%;
+  top: 225px;
+  transform: translate(-50%, -50%);
+  width:175%;
+}
+.drinks .single_features_text p{
+   position: relative;
+  left: 50%;
+  top: 100px;
+  transform: translate(-50%, -50%);
+  width:175%;
+}
+.drinks .btn-primary{
+    width:100px;
+    display:inline;
+    margin: 20px 2px;
+}
+
+  span.account {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+  .block{
+    text-align: center;
+}
+
+    .block label {
+ width: 100%; margin-right: 1em; text-align: left;
+    }​
+
+    span.account {
+
+  width: 100%;
+}
+
+  button[type=submit]{
+    width: 100%;
+  }
+  input[type=text], input[type=password] {
+    width: 100%;
+  }
+
+   input[type=submit]{
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 320px){
+.main_slider .main_slider_content p{
+  position: relative;
+  left: 50%;
+  top: 280px;
+  transform: translate(-50%, -50%);
+}
+.main_menu_bg h1{
+font-size: 25px;
+
+}
+
+.main_menu_bg a.navbar-brand.our_logo{
+    top: -16px;
+    width: 30%;
+}
+
+.menu-scroll .main_menu_bg a.navbar-brand.our_logo {
+    top: -16px;
+    width: 30%;
+}
+.single_features_text p{
+  position: relative;
+  left: 50%;
+  top: 300px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+.single_features_text h5{
+  position: relative;
+  left: 50%;
+  top: 100px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+
+.drinks .single_features_text p{
+  position: relative;
+  left: 50%;
+  top: 150px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+.drinks .single_features_text h5{
+   position: relative;
+  left: 50%;
+  top: 100px;
+  transform: translate(-50%, -50%);
+  width:200%;
+}
+
+}
+
